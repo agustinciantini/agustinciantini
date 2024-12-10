@@ -23,9 +23,7 @@ Aquí están algunas de las herramientas y tecnologías que domino o estoy explo
 
 ## 📫 ¿Cómo contactarme?
 
-¡Siempre estoy abierto a colaborar o conversar sobre tecnología! Aquí puedes encontrarme:  
-
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/agustinciantini) ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/agus.ciantini)  ![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/.saquito)
+****
 
 
 ## 📖 Inspiración

@@ -4,17 +4,12 @@
 
 Hola, soy Agustin Ciantini, un apasionado desarrollador de software, entusiasta de la tecnología y constante aprendiz. Me encanta trabajar en soluciones creativas para problemas complejos y contribuir a proyectos que impacten positivamente a las personas.  
 
-Algunas palabras clave que definen mi perfil:  
-- 💡 Resolución de problemas  
-- 🤖 Inteligencia Artificial  
-- 🌐 Desarrollo web y backend  
-- 📚 Siempre aprendiendo algo nuevo  
-
 ## 🚀 Habilidades y Tecnologías
 
 Aquí están algunas de las herramientas y tecnologías que domino o estoy explorando:  
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+ ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
 
 ## 🛠 Mi Filosofía de Trabajo
 
@@ -27,19 +22,14 @@ Aquí están algunas de las herramientas y tecnologías que domino o estoy explo
 - Aprender más sobre DevOps y despliegues en la nube.  
 - Contribuir a proyectos open-source.  
 
-## 📫 Cómo contactarme
+## 📫 ¿Cómo contactarme?
 
 ¡Siempre estoy abierto a colaborar o conversar sobre tecnología! Aquí puedes encontrarme:  
 
-- 🌐 **Portfolio:** [Tu Portfolio](https://tu-portfolio.com)  
-- 📧 **Email:** tu-email@correo.com  
-- 💼 **LinkedIn:** [Tu LinkedIn](https://linkedin.com/in/tu-usuario)  
-- 🐦 **Twitter:** [Tu Twitter](https://twitter.com/tu-usuario)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-usuario)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tu-usuario)  
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/tu-usuario)
 
-## 🏆 Logros y Agradecimientos
-
-- 🥇 [Describe algún logro o reconocimiento importante].  
-- 🚀 Agradezco a mi comunidad por el apoyo y las oportunidades de aprendizaje.  
 
 ## 📖 Inspiración
 

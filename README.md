@@ -24,8 +24,3 @@ Aquí están algunas de las herramientas y tecnologías que domino o estoy explo
 ## 📫 ¿Cómo contactarme?
 
 ****
-
-
-## 📖 Inspiración
-
-"La tecnología es una herramienta, no el fin. Nuestro propósito es hacer del mundo un lugar mejor."  
